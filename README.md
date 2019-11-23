@@ -1,7 +1,11 @@
 # flutter_calculator_demo
 Example project demonstrating how to build a calculator app in Flutter
 
+[![Build Status](https://dev.azure.com/bassheads/az-400-1/_apis/build/status/skiryazov.flutter-calculator-demo?branchName=master)](https://dev.azure.com/bassheads/az-400-1/_build/latest?definitionId=6&branchName=master)
+
 ![](preview.gif)
+
+
 
 ## Getting Started
 To build and run this project:
